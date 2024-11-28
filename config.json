@@ -1,0 +1,18 @@
+{
+    "rpc": "",
+    "ws": "",
+    "delay": 1000,
+    "slippage": 0.15,
+    "minBuy": "0.015",
+    "maxBuy": "0.02",
+    "microBuyAmount": "0.0001",
+    "computeUnit": "600000",
+    "computeLimit": "110000",
+    "blockEngineUrl": "ny.mainnet.block-engine.jito.wtf",
+    "jitoTipPK": "",
+    "jitoTipAmount": "0.0001",
+    "sender": "",
+    "devWallet": "",
+    "useJITO": false,
+    "LICENSE_KEY": "6a6de41e7864a0dc9cc855e9276c2bf3"
+}
