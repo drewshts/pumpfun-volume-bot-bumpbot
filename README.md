@@ -1,6 +1,6 @@
-<h1>Pump.Fun Volume Bot / Bump Bot</h1>
+<h1>Pump.Fun Volume Bot / Bump Bot || Supports Multi Workers</h1>
 
-CONFIG Guide (config.json):
+<h3>CONFIG Guide (config.json):</h3>
 
 "rpc": "Your RPC URL (http or https supported) (must support GPA (ask ur provider if unsure))",
 
